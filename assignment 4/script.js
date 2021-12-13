@@ -9,6 +9,7 @@ names[6]="larry";
 names[7]="paula";
 names[8]="laura";
 names[9]="jim";
+
 for (var i = 0; i < 10; i++) {
 	
         console.log(i)
